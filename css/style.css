@@ -1145,6 +1145,7 @@ img{
 	padding: 25px 60px;
 	min-height:80px;
 	border-radius: 0;
+	background-color: #1BA4DD;
 }
 
 
@@ -1577,7 +1578,7 @@ img{
 }
 
 .page-title .bread-crumb li a:hover{
-	color:1BA4DD;	
+	color:#1BA4DD;	
 }
 
 /*** 
