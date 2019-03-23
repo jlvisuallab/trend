@@ -216,12 +216,12 @@ ul,li{
 	position:relative;
 	font-size:16px;
 	line-height:20px;
-	color:#222222;
+	color:#ffffff;
 	padding: 13px 45px;
 	text-transform: capitalize;
 	font-weight: 400;
 	border-radius: 50px;
-	background-color: #ffffff;
+	background-color: #1ba4dd;
 	border:2px solid 1BA4DD;
 	-webkit-box-shadow: rgba(255, 255, 255, 0) 0 0px 0px 0px inset;
 	-moz-box-shadow: rgba(255, 255, 255, 0) 0 0px 0px 0px inset;
@@ -1431,11 +1431,11 @@ img{
 .sec-title .title{
 	position: relative;
 	display: block;
-	font-size: 14px;
+	font-size: 34px;
 	line-height: 28px;
-	color: #777777;
+	color: #161616;
 	font-weight: 700;
-	text-transform: uppercase;
+	text-transform: none;
 	margin-bottom: 10px;
 }
 
@@ -1443,9 +1443,9 @@ img{
 	display: block;
 	font-size:30px;
 	line-height: 1.2em;
-	color: #222222;
+	color: #ffffff;
 	font-weight: 500;
-	padding-bottom: 25px;
+	padding-bottom: 0;
 }
 
 .sec-title h2:before{
@@ -2172,7 +2172,7 @@ img{
 .about-section .content-column .content-box{
 	position: relative;
 	padding: 75px 70px 74px;
-	background-color: #ffffff;
+	background-color: #124482;
 }
 
 .about-section .content-column .content-box .sec-title{
@@ -2184,7 +2184,7 @@ img{
 	display: block;
 	font-size: 14px;
 	line-height: 28px;
-	color: #777777;
+	color: #ffffff;
 	margin-bottom: 45px;
 }
 
@@ -2799,6 +2799,7 @@ img{
 	bottom: 0;
 	width: 100%;
 	text-align: center;
+	padding-bottom: 75px;
 }
 
 .services-carousel .owl-dot{
@@ -7749,7 +7750,7 @@ img{
 
 .main-footer .footer-bottom .inner-container{
 	position: relative;
-	background-color: #000000;
+	background-color: #124482;
 	border-radius: 20px 20px 0 0;
 	padding: 0 40px;
 }
@@ -7760,7 +7761,7 @@ img{
 	top: 0;
 	height: 100%;
 	width: 1000%;
-	background-color: #000000;
+	background-color: #124482;
 	content: "";
 }
 

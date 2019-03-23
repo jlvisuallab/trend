@@ -187,7 +187,8 @@ a{
 .btn-style-six:hover,
 .btn-style-five,
 .btn-style-one{
-	background-color: #FFFFFF;
+	background-color: #1ba4dd;
+	margin-bottom: -15px;
 }
 
 /*Border Color*/
