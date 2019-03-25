@@ -2157,6 +2157,7 @@ img{
 	display: inline-block;
 	max-width: 100%;
 	height: auto;
+	padding: 25px 0 0 0;
 }
 
 .about-section .content-column{
@@ -2173,6 +2174,7 @@ img{
 	position: relative;
 	padding: 75px 70px 74px;
 	background-color: #124482;
+	margin: -145px 0 0 0;
 }
 
 .about-section .content-column .content-box .sec-title{
@@ -7480,6 +7482,7 @@ img{
 
 .main-footer .footer-column{
 	position:relative;
+	margin-left: 68px;
 }
 
 .main-footer .footer-widget{
@@ -7689,6 +7692,7 @@ img{
 	-ms-transition: all 300ms ease;
 	-o-transition: all 300ms ease;
 	transition: all 300ms ease;
+	    line-height: 30px;
 }
 
 .serivce-list li a:hover{
