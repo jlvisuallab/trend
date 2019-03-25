@@ -191,6 +191,13 @@ a{
 	margin-bottom: -15px;
 }
 
+.call-btn{
+	background-color: white !important;
+}
+
+.logo-box{
+	background-color: white !important;
+}
 /*Border Color*/
 .range-slider-one .ui-state-default, 
 .range-slider-one .ui-widget-content .ui-state-default,
