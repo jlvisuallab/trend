@@ -4467,7 +4467,7 @@ img{
 	left: 0;
 	top: -20px;
 	height: 100%;
-	width: 100%;
+	width: 80%;
 }
 
 .project-block-two .overlay-box:before{
@@ -4476,7 +4476,7 @@ img{
 	top: 0;
 	height: 100%;
 	width: 60%;
-	background: 1BA4DD padding-box content-box;
+	background: #1BA4DD padding-box content-box;
 	padding: 0 20px 0;
 	opacity: 0;
 	content: "";
