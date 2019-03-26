@@ -188,7 +188,7 @@ ul,li{
 	position:relative;
 	font-size:16px;
 	line-height:30px;
-	color:#ffffff;
+	color:#ffffff; 
 	padding: 10px 45px;
 	text-transform: capitalize;
 	font-weight: 400;
@@ -222,7 +222,7 @@ ul,li{
 	font-weight: 400;
 	border-radius: 50px;
 	background-color: #1ba4dd;
-	border:2px solid 1BA4DD;
+	border:2px solid #1BA4DD;
 	-webkit-box-shadow: rgba(255, 255, 255, 0) 0 0px 0px 0px inset;
 	-moz-box-shadow: rgba(255, 255, 255, 0) 0 0px 0px 0px inset;
 	-ms-box-shadow: rgba(255, 255, 255, 0) 0 0px 0px 0px inset;
@@ -232,7 +232,7 @@ ul,li{
 
 .btn-style-two:hover{
 	color: #ffffff;
-	border:2px solid 1BA4DD;
+	border:2px solid #1BA4DD;
 	-webkit-box-shadow: rgba(255, 138, 0, 1) 0 0px 0px 40px inset;
 	-moz-box-shadow: rgba(255, 138, 0, 1) 0 0px 0px 40px inset;
 	-ms-box-shadow: rgba(255, 138, 0, 1) 0 0px 0px 40px inset;
@@ -306,7 +306,7 @@ ul,li{
 	text-transform: capitalize;
 	font-weight: 400;
 	border-radius: 50px;
-	background-color: 1BA4DD;
+	background-color: #1BA4DD;
 }
 
 .btn-style-five:hover{
@@ -330,7 +330,7 @@ ul,li{
 
 .btn-style-six:hover{
 	color: #ffffff;
-	background-color: 1BA4DD;
+	background-color: #1BA4DD;
 }
 
 /*Btn Style Seven*/
@@ -363,13 +363,43 @@ ul,li{
 	text-transform: capitalize;
 	font-weight: 400;
 	border-radius: 50px;
-	border:2px solid 1BA4DD;
+	border:2px solid #1BA4DD;
 	background-color: #ffffff;
 }
 
 .btn-style-eight:hover{
 	color: #ffffff;
 	background-color: #1BA4DD;
+}
+
+.btn-style-nine{
+	position:relative;
+	font-size:16px;
+	line-height:30px;
+	color:#ffffff; 
+	padding: 10px 45px;
+	text-transform: capitalize;
+	font-weight: 400;
+	border-radius: 50px;
+	background-color: #1ba4dd;
+	-webkit-box-shadow: rgba(34, 34, 34, 0) 0 0px 0px 0px inset;
+	-moz-box-shadow: rgba(34, 34, 34, 0) 0 0px 0px 0px inset;
+	-ms-box-shadow: rgba(34, 34, 34, 0) 0 0px 0px 0px inset;
+	-o-box-shadow: rgba(34, 34, 34, 0) 0 0px 0px 0px inset;
+	box-shadow: rgba(34, 34, 34, 0) 0 0px 0px 0px inset;
+}
+
+.btn-style-nine:hover{
+	color: #ffffff;
+	-webkit-box-shadow: rgba(34, 34, 34, 1) 0 0px 0px 40px inset;
+	-moz-box-shadow: rgba(34, 34, 34, 1) 0 0px 0px 40px inset;
+	-ms-box-shadow: rgba(34, 34, 34, 1) 0 0px 0px 40px inset;
+	-o-box-shadow: rgba(34, 34, 34, 1) 0 0px 0px 40px inset;
+	box-shadow: rgba(34, 34, 34, 1) 0 0px 0px 40px inset;
+}
+
+.btn-style-nine a{
+	color: #ffffff;
 }
 
 /*=== List Style One ===*/
@@ -8146,6 +8176,16 @@ img{
 	position: relative;
 	display: inline-block;
 	font-size: 24px;
+	line-height: 1.2em;
+	color: #222222;
+	font-weight: 500;
+	text-transform: capitalize;
+}
+
+.sidebar-page-container .sidebar-title h3{
+	position: relative;
+	display: inline-block;
+	font-size: 18px;
 	line-height: 1.2em;
 	color: #222222;
 	font-weight: 500;
