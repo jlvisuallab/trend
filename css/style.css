@@ -168,6 +168,10 @@ ul,li{
 	margin:0px;	
 }
 
+.bullet li{
+	list-style: disc;
+}
+
 .theme-btn{
 	display:inline-block;
 	text-align: center;
