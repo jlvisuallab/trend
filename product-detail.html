@@ -48,21 +48,15 @@
                             
                             <div class="collapse navbar-collapse clearfix" id="navbarSupportedContent">
                                 <ul class="navigation clearfix">
-                                    <li class="dropdown"><a href="#">Home</a>
-                                        <ul>
-                                            <li><a href="index.html">Home page 01</a></li>
-                                            <li><a href="index-2.html">Home page 02</a></li>
-                                            <li><a href="index-3.html">Home page 03</a></li>
-                                            <li class="dropdown"><a href="#">Header Styles</a>
-                                                <ul>
-                                                    <li><a href="index.html">Header Style One</a></li>
-                                                    <li><a href="index-2.html">Header Style Two</a></li>
-                                                </ul>
-                                            </li>
-                                        </ul>
-                                    </li>
+                                    <li><a href="index.html">Home</a></li>
                                     <li><a href="about.html">About</a></li>
-                                    <li class="dropdown"><a href="#">Services</a>
+                                    <li class="current dropdown"><a href="products.html">Products</a>
+                                        <ul>
+                                            <li><a href="products.html">Projects</a></li>
+                                            <li class="current"><a href="#">Project Detail</a></li>
+                                        </ul>
+                                    </li> 
+                                    <li class="dropdown"><a href="services.html">Services</a>
                                         <ul>
                                             <li><a href="services.html">All Services</a></li>
                                             <li><a href="service-detail.html">Civil Enginerring</a></li>
@@ -72,27 +66,7 @@
                                             <li><a href="service-detail.html">Services Detail</a></li>
                                         </ul>
                                     </li>
-                                    <li class="current dropdown"><a href="#">Projects</a>
-                                        <ul>
-                                            <li><a href="projects.html">Projects</a></li>
-                                            <li><a href="project-detail.html">Project Detail</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="dropdown"><a href="#">Blog</a>
-                                        <ul>
-                                            <li><a href="blog.html">Blog</a></li>
-                                            <li><a href="blog-detail.html">Blog Detail</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="dropdown"><a href="#">shop</a>
-                                        <ul>
-                                            <li><a href="products.html">Our Products</a></li>
-                                            <li><a href="product-single.html">Product Details</a></li>
-                                            <li><a href="shopping-cart.html">Shopping Cart</a></li>
-                                            <li><a href="checkout.html">Checkout</a></li>
-                                            <li><a href="login.html">Register / Login</a></li>
-                                        </ul>
-                                    </li>
+                                   
                                     <li><a href="contact.html">Contact</a></li>
                                 </ul> 
                             </div>
@@ -106,6 +80,46 @@
                 </div>
             </div>
         </div>
+		<!-- Sticky Header -->
+        <div class="sticky-header">
+            <div class="auto-container clearfix">
+                <!--Logo-->
+                <div class="logo pull-left">
+                    <a href="index.html" title=""><img src="images/logo.svg" alt="" title=""></a>
+                </div>
+                <!--Right Col-->
+                <div class="pull-right">
+                    <!-- Main Menu -->
+                    <nav class="main-menu">
+                        <div class="navbar-collapse show collapse clearfix">
+                            <ul class="navigation clearfix">
+                                <li><a href="index.html">Home</a>  
+                                </li>
+                                <li><a href="about.html">About</a></li>
+								<li class="dropdown"><a href="products.html">Products</a>
+                                    <ul>
+                                        <li><a href="products.html">Products</a></li>
+                                        <li class="current"><a href="#">Project Detail</a></li>
+                                    </ul>
+                                </li>
+                                <li class="dropdown"><a href="services.html">Services</a>
+                                    <ul>
+                                        <li><a href="services.html">All Services</a></li>
+                                        <li><a href="service-detail.html">Civil Enginerring</a></li>
+                                        <li><a href="service-detail.html">Oil & Gas Engineering</a></li>
+                                        <li><a href="service-detail.html">Chemical Engineering</a></li>
+                                        <li><a href="service-detail.html">Agriculture Engineering</a></li>
+                                        <li><a href="service-detail.html">Services Detail</a></li>
+                                    </ul>
+                                </li>
+
+                                <li><a href="contact.html">Contact</a></li>
+                            </ul>
+                        </div>
+                    </nav><!-- Main Menu End-->
+                </div>
+            </div>
+        </div><!-- End Sticky Menu -->
         <!--End Header Lower-->
     </header>
     <!--End Main Header -->
@@ -409,27 +423,6 @@
     </section>
     <!--End Related Projects -->
 
-    <!-- Subscribe Section -->
-    <section class="subscribe-section">
-        <div class="outer-container" style="background-image: url(images/background/9.jpg);">
-            <div class="auto-container">
-                <div class="content-box">
-                    <h3>Subscribe to Our Newsletter</h3>
-                    <div class="subscribe-form-two">
-                        <form method="post" action="blog.html">
-                            <div class="form-group">
-                                <input type="email" name="email" value="" placeholder="Your Email" required>
-                                <button type="submit" class="theme-btn btn-style-one">Subscribe</button>
-                            </div>
-                        </form>
-                    </div>
-                    <div class="text">We believe strongly that we can and must do things differently.<br> Our aim is to bring you news, perspectives.</div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!--End Subscribe Section -->
-
     <!--Clients Section-->
     <section class="clients-section">
         <div class="auto-container">
@@ -453,71 +446,43 @@
     <!--End Clients Section-->
 
     <!--Main Footer-->
-    <footer class="main-footer style-two">
+    <footer class="main-footer">
         <!--footer upper-->
         <div class="footer-upper">
             <div class="auto-container">
 
                 <div class="row clearfix">
                     <!--Footer Column-->
-                    <div class="footer-column col-lg-6 col-md-12 col-sm-12">
+                    <div class="footer-column col-lg-4 col-md-6 col-sm-12">
                         <div class="footer-widget about-widget">
                             <div class="logo">
                                 <a href="index.html"><img src="images/logo-2.svg" alt="" /></a>
                             </div>
                             <div class="text">
-                                <p>Generate has very good strength in innovative technology and tools with over 35 years of experience.</p>
-                                <p>We makes long-term investments goal in global companies in different sectors, mainly in Europe and other countries.</p>                                
+                                <p>TREND ELECTRONICS (M) Sdn. Bhd. Is a trading company for semiconductor and PCBA products and solutions located in Penang, Malaysia. </p>
+                                                             
                             </div>
+                         
                         </div>
                     </div>
 
+                
+
                     <!--Footer Column-->
-                    <div class="footer-column col-lg-6 col-md-12 col-sm-12">
-                        <div class="row">
-                            <!--Footer Column-->
-                            <div class="footer-widget links-widget">
-                                <h2 class="widget-title">Useful Links</h2>
-                                 <!--Footer Column-->
-                                <div class="widget-content">
-                                    <ul class="footer-links">
-                                        <li><a href="#">Generate</a></li>
-                                        <li><a href="#">Logistics</a></li>
-                                        <li><a href="#">Global Agents</a></li>
-                                        <li><a href="#">Network</a></li>
-                                        <li><a href="#">FAQ</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-
-                            <!--Footer Column-->
-                            <div class="footer-widget links-widget">
-                                <h2 class="widget-title">Company</h2>
-                                 <!--Footer Column-->
-                                <div class="widget-content">
-                                    <ul class="footer-links">
-                                        <li><a href="#">About</a></li>
-                                        <li><a href="#">Expertise</a></li>
-                                        <li><a href="#">News & Media</a></li>
-                                        <li><a href="#">Case Studies</a></li>
-                                        <li><a href="#">Contacts</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-
-                            <!--Footer Column-->
-                            <div class="footer-widget links-widget">
-                                <h2 class="widget-title">Industry</h2>
-                                 <!--Footer Column-->
-                                <div class="widget-content">
-                                    <ul class="footer-links">
-                                        <li><a href="#">Electronic Materials</a></li>
-                                        <li><a href="#">Gifts & Apparel</a></li>
-                                        <li><a href="#">Auto Parts</a></li>
-                                        <li><a href="#">Power Systems</a></li>
-                                        <li><a href="#">Building Management</a></li>
-                                    </ul>
-                                </div>
+                    <div class="footer-column col-lg-4 col-md-6 col-sm-12">
+                        <div class="footer-widget services-widget">
+                            <h2 class="widget-title">Our Services</h2>
+                            <div class="widget-content">
+                                <ul class="serivce-list clearfix">
+									<li><a href="#">Installation & <br>Commission</a></li>
+                                    <li><a href="#">Machines customization</a></li>
+                                    <li><a href="#">Jig & Fixture fabrication</a></li>
+                                    <li><a href="#">Products presentation</a></li>
+                                    <li><a href="#">Training</a></li>
+                                    <li><a href="#">Troubleshoot / Repair & Service contract</a></li>
+									<li><a href="#">Industrial Material</a></li>
+                                </ul>
+                               
                             </div>
                         </div>
                     </div>
@@ -528,30 +493,12 @@
         <!--Footer Bottom-->
         <div class="footer-bottom">
             <div class="auto-container">
-                <div class="row">
-
-                    <div class="nav-column order-last col-lg-6 col-md-6 col-sm-12">
-                        <!--Scroll to top-->
-                        <div class="scroll-to-top scroll-to-target" data-target="html">Go to Top <span class="icon fa fa-angle-up"></span></div>
-                        <ul class="footer-nav">
-                            <li><a href="#">Privacy Policy</a></li>
-                            <li><a href="#">Contact</a></li>
-                            <li><a href="#">Supplier</a></li>
-                        </ul>
-                    </div>
-
-                    <div class="column col-lg-6 col-md-6 col-sm-12">
-                        <ul class="social-icon-four clearfix">
-                            <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                            <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
-                            <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                            <li><a href="#"><i class="fab fa-skype"></i></a></li>
-                            <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                        </ul>
-                        <div class="copyright-text">
-                            <p>2018 © All Rights Reserved by <a href="index.html">Yogsthemes</a></p>
-                        </div> 
-                    </div>
+                <div class="inner-container clearfix">
+                    
+                    
+                    <div class="copyright-text">
+                        <p>2019 © All Rights Reserved by <a href="index.html">TREND</a></p>
+                    </div> 
                 </div>
             </div>
         </div>
