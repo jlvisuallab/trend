@@ -162,24 +162,27 @@
                             <div class="basic-details">
                                 <div class="row clearfix">
                                     <div class="image-column col-lg-5 col-md-6 col-sm-12">
-                                        <figure class="image-box"><img src="../images/resource/Waterun/Screw Fastening Robot/WT-4222-2Z Screw Fastening Robot （Drop Screw type).jpg" alt=""></figure>
+                                        <figure class="image-box"><img src="../images/resource/Waterun/Screw Fastening Robot/WT-7026-2Z With Mechanical Arm Pick-Up Screw Fastening Robot.jpg" alt=""></figure>
                                     </div>
                                     <div class="info-column col-lg-7 col-md-6 col-sm-12">
                                         <div class="details-header">
-                                                                                       <h4>&nbsp;&nbsp;WT-4222-2Z</h4>
+                                                                                       <h4>&nbsp;&nbsp;WT-7026-2Z</h4>
                                         </div>
 
                                         <div class="text">WATERUN | Screw Fastening Robot</div>
 																				<div class="content bullet">
                                                 <ul>
-													<li>The screws feed to the screwdriver bit directly one by one through a tube, to achieve extremely fast feeding and screwing. It saves the time to pick up the screw from the screw feeder. </li>
+													<li>The back side can support a mechanical arm to pick up the products automatically after screwing completed.</li>
 
+<li>With the work cabinet, the screwing performance is very stable and the working position can be moved flexibly.</li>
 
-<li>The operator can use manual positioning to do the programming. It is highly efficient and very easy to learn the operation.  </li>
+<li>The screws feed to the screwdriver bit directly one by one trough a tube, to achieve extremely fast feeding and screwing.</li>
 
-<li>With alarm function for fastening missing, untightened screws, worn thread, etc.</li>
+<li>The operator can use manual positioning to do the programming. It is highly efficient and very easy to learn the operation.</li>
 
-<li>Servo Motor or Electric Screwdriver are optional. Both of them can adjust the torque and rotation speed freely.
+<li>With alarm funtion for fastening missing, untightened screws, worn thread, etc.</li>
+
+<li>Servo Motor or Electric Screwdriver are optional. Both of them can adjust the torque and rotation speed freel.
 </li>
 												</ul>
                                             </div>
@@ -210,12 +213,12 @@
 												<table style="width:50%">
                                                 <tr>
     <th>Model</th>
-    <td>WT-4222-2Z</td> 
+    <td>WT-4220-2Z</td> 
   </tr>
 													  <tr>
     <th>Operating Range (X * Y * Y * Z)
 </th>
-    <td>X220 * Y1/420 * Z135mm / X220 * Y2/420 * Z135mm</td>
+    <td>X200 * Y1/420  * Z135mm  /  X200 *Y2/420 * Z135mm</td>
   </tr>
 													  <tr>
     <th>Movement Speed</th>
@@ -227,11 +230,11 @@
   </tr>
 													<tr>
     <th>Screwing time for each screw</th>
-    <td>0.8~1.2s/piece </td>
+    <td>1.0~1.5s /piece</td>
   </tr>
 													<tr>
     <th>Suitable screw size</th>
-    <td>M2 – M4 (total screw length ≤ 16mm)</td>
+    <td>M1.0 – M4 (total screw length ≤ 16mm)</td>
   </tr>
 													<tr>
     <th>Control system</th>
@@ -247,7 +250,7 @@
   </tr>
 													<tr>
     <th>Dimensions (WxDxH)</th>
-    <td>830 x 820 x 900mm</td>
+    <td>970 x 820 x 900mm </td>
   </tr>
 													<tr>
     <th>Weight</th>
@@ -373,7 +376,7 @@
                         <figure class="image"><img src="../images/resource/Waterun/Screw Fastening Robot/WT-4222-2Z Screw Fastening Robot （Drop Screw type).jpg" alt=""></figure>
                         <div class="overlay-box">
                             <div class="title-box">
-                                <h4><a href="product-detail-WATERUN-ScrewFasteningRobot-4.html">WT-4222-2Z Screw Fastening Robot （Drop Screw type)</a></h4>
+                                <h4><a href="product-detail-WATERUN-ScrewFasteningRobot-4.html">/WT-4222-2Z Screw Fastening Robot （Drop Screw type)</a></h4>
                                 <span>WATERUN</span>
                             </div>
 
@@ -517,12 +520,12 @@
                         <figure class="image"><img src="../images/resource/Waterun/Screw Fastening Robot/WT4223-2Y Screw Fastening Robot (Drop Screw type).jpg" alt=""></figure>
                         <div class="overlay-box">
                             <div class="title-box">
-                                <h4><a href="product-detail-WATERUN-ScrewFasteningRobot-13.html">WT4223-2Y Screw Fastening Robot (Drop Screw type)</a></h4>
+                                <h4><a href="product-detail-WATERUN-ScrewFasteningRobot-2.html">WT4223-2Y Screw Fastening Robot (Drop Screw type)</a></h4>
                                 <span>WATERUN</span>
                             </div>
 
                             <div class="btn-box">
-                                <a href="product-detail-WATERUN-ScrewFasteningRobot-13.html" class="theme-btn btn-style-seven">Read More <i class="fa fa-angle-double-right"></i></a>
+                                <a href="product-detail-WATERUN-ScrewFasteningRobot-2.html" class="theme-btn btn-style-seven">Read More <i class="fa fa-angle-double-right"></i></a>
                             </div>
                         </div>
                     </div>
