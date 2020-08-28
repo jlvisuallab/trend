@@ -162,18 +162,28 @@
                             <div class="basic-details">
                                 <div class="row clearfix">
                                     <div class="image-column col-lg-5 col-md-6 col-sm-12">
-                                        <figure class="image-box"><img src="../images/resource/UTE/Board to Board Connector/Pin Header Connector/3127-1.png" alt=""></figure>
+                                        <figure class="image-box"><img src="../images/resource/Waterun/Screw Fastening Robot/WT-7026-2Z With Mechanical Arm Pick-Up Screw Fastening Robot.jpg" alt=""></figure>
                                     </div>
                                     <div class="info-column col-lg-7 col-md-6 col-sm-12">
                                         <div class="details-header">
-                                            <h4>&nbsp;&nbsp;3127-1</h4>
+                                                                                       <h4>&nbsp;&nbsp;WT-7026-2Z</h4>
                                         </div>
 
-                                        <div class="text">UTE | Board to Board Connector</div>
-                                   										<div class="content bullet">
+                                        <div class="text">WATERUN | Screw Fastening Robot</div>
+																				<div class="content bullet">
                                                 <ul>
-													<li>Housing: LCP, Nylon or PBT 94V-0, color, Black</li>
-<li>Contact: Copper alloy gold plating over nicket</li>
+													<li>The back side can support a mechanical arm to pick up the products automatically after screwing completed.</li>
+
+<li>With the work cabinet, the screwing performance is very stable and the working position can be moved flexibly.</li>
+
+<li>The screws feed to the screwdriver bit directly one by one trough a tube, to achieve extremely fast feeding and screwing.</li>
+
+<li>The operator can use manual positioning to do the programming. It is highly efficient and very easy to learn the operation.</li>
+
+<li>With alarm funtion for fastening missing, untightened screws, worn thread, etc.</li>
+
+<li>Servo Motor or Electric Screwdriver are optional. Both of them can adjust the torque and rotation speed freel.
+</li>
 												</ul>
                                             </div>
                                     </div>
@@ -203,17 +213,51 @@
 												<table style="width:50%">
                                                 <tr>
     <th>Model</th>
-    <td>3127-1</td> 
-  </tr>
-  <tr>
-    <th>Dielectric Withstanding Voltage </th>
-    <td>1000 Megohms Minimum</td>
+    <td>WT-4220-2Z</td> 
   </tr>
 													  <tr>
-    <th>Contact Resistance</th>
-    <td>20m Max</td>
+    <th>Operating Range (X * Y * Y * Z)
+</th>
+    <td>X200 * Y1/420  * Z135mm  /  X200 *Y2/420 * Z135mm</td>
   </tr>
-													  
+													  <tr>
+    <th>Movement Speed</th>
+    <td>X/Y Axis: ≤500mm/s,  Z Axis: ≤300mm/s</td>
+  </tr>
+													  <tr>
+    <th>Repeatability  Accuracy</th>
+    <td> ±0.03mm</td>
+  </tr>
+													<tr>
+    <th>Screwing time for each screw</th>
+    <td>1.0~1.5s /piece</td>
+  </tr>
+													<tr>
+    <th>Suitable screw size</th>
+    <td>M1.0 – M4 (total screw length ≤ 16mm)</td>
+  </tr>
+													<tr>
+    <th>Control system</th>
+    <td>SCM + Touch Screen</td>
+  </tr>
+													<tr>
+    <th>Program capacity</th>
+    <td>15 files, each file can save up to 99 points</td>
+  </tr>
+													<tr>
+    <th>Air source</th>
+    <td>0.4 -0.6 Mpa</td>
+  </tr>
+													<tr>
+    <th>Dimensions (WxDxH)</th>
+    <td>970 x 820 x 900mm </td>
+  </tr>
+													<tr>
+    <th>Weight</th>
+    <td>about 100 kgs </td>
+  </tr>
+													
+													
 													</table>
                                             </div>
                                         </div>
@@ -241,10 +285,10 @@
                                 <li><a href="../product-koki.html">KOKI</a></li>
 								<li><a href="../product-koki-tec.html">KOKI TEC</a></li>
                                 <li><a href="../product-uisys.html">UISYS</a></li>
-                                <li class="active"><a href="../product-ute.html">UTE</a></li>
+                                <li><a href="../product-ute.html">UTE</a></li>
                                 <li><a href="../product-tri.html">TRI</a></li>
                                 <li><a href="../product-samtronik.html">SAMTRONIK</a></li>
-								<li><a href="../product-waterun.html">WATERUN</a></li>
+								<li class="active"><a href="../product-waterun.html">WATERUN</a></li>
                             </ul>
                         </div>
 						<div class="sidebar-widget price-filters rangeslider-widget">
@@ -269,11 +313,6 @@
         </div>
     </div>
     <!-- End Sidebar Page Container -->
-                
-            
-	</div>
-    </section>
-    <!--End Portfolio Details-->
 
     <!-- Related Projects -->
     <section class="related-projects">
@@ -286,66 +325,31 @@
                 <!-- Project Block -->
                 <div class="project-block-two">
                     <div class="image-box">
-                        <figure class="image"><img src="../images/resource/UTE/Board to Board Connector/Pin Header Connector/3127-1.png" alt=""></figure>
+                        <figure class="image"><img src="../images/resource/Waterun/Screw Fastening Robot/WT-4220-2Z Vacuum Suction Type Screw Fastening Robot.jpg" alt=""></figure>
                         <div class="overlay-box">
                             <div class="title-box">
-                                <h4><a href="product-detail-UTE-BTBConnector-PinHeaderConnector-1.html">3127-1</a></h4>
-                                <span>UTE</span>
+                                <h4><a href="product-detail-WATERUN-ScrewFasteningRobot-1.html">WT-4220-2Z Vacuum Suction Type</a></h4>
+                                <span>WATERUN</span>
                             </div>
 
                             <div class="btn-box">
-                                <a href="product-detail-UTE-BTBConnector-PinHeaderConnector-1.html" class="theme-btn btn-style-seven">Read More <i class="fa fa-angle-double-right"></i></a>
+                                <a href="product-detail-WATERUN-ScrewFasteningRobot-1.html" class="theme-btn btn-style-seven">Read More <i class="fa fa-angle-double-right"></i></a>
                             </div>
                         </div>
                     </div>
                 </div>
-
-                <!-- Project Block -->
+				 <!-- Project Block -->
                 <div class="project-block-two">
                     <div class="image-box">
-                        <figure class="image"><img src="../images/resource/UTE/Board to Board Connector/Pin Header Connector/3149-1.png" alt=""></figure>
+                        <figure class="image"><img src="../images/resource/Waterun/Screw Fastening Robot/WT-4221-2Y Magnetic Suction Type Screw Fastening Robot.jpg" alt=""></figure>
                         <div class="overlay-box">
                             <div class="title-box">
-                                <h4><a href="product-detail-UTE-BTBConnector-PinHeaderConnector-2.html">3149-1</a></h4>
-                                <span>UTE</span>
+                                <h4><a href="product-detail-WATERUN-ScrewFasteningRobot-2.html">WT-4221-2Y Magnetic Suction Type</a></h4>
+                                <span>WATERUN</span>
                             </div>
 
                             <div class="btn-box">
-                                <a href="product-detail-UTE-BTBConnector-PinHeaderConnector-2.html" class="theme-btn btn-style-seven">Read More <i class="fa fa-angle-double-right"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-               <!-- Project Block -->
-                <div class="project-block-two">
-                    <div class="image-box">
-                        <figure class="image"><img src="../images/resource/UTE/Board to Board Connector/Pin Header Connector/3152-1.png" alt=""></figure>
-                        <div class="overlay-box">
-                            <div class="title-box">
-                                <h4><a href="product-detail-UTE-BTBConnector-PinHeaderConnector-3.html">3152-1</a></h4>
-                                <span>UTE</span>
-                            </div>
-
-                            <div class="btn-box">
-                                <a href="product-detail-UTE-BTBConnector-PinHeaderConnector-3.html" class="theme-btn btn-style-seven">Read More <i class="fa fa-angle-double-right"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Project Block -->
-                <div class="project-block-two">
-                    <div class="image-box">
-                        <figure class="image"><img src="../images/resource/UTE/Board to Board Connector/Pin Header Connector/3170-1.png" alt=""></figure>
-                        <div class="overlay-box">
-                            <div class="title-box">
-                                <h4><a href="product-detail-UTE-BTBConnector-PinHeaderConnector-4.html">3170-1</a></h4>
-                                <span>UTE</span>
-                            </div>
-
-                            <div class="btn-box">
-                                <a href="product-detail-UTE-BTBConnector-PinHeaderConnector-4.html" class="theme-btn btn-style-seven">Read More <i class="fa fa-angle-double-right"></i></a>
+                                <a href="product-detail-WATERUN-ScrewFasteningRobot-2.html" class="theme-btn btn-style-seven">Read More <i class="fa fa-angle-double-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -353,15 +357,15 @@
 				<!-- Project Block -->
                 <div class="project-block-two">
                     <div class="image-box">
-                        <figure class="image"><img src="../images/resource/UTE/Board to Board Connector/Pin Header Connector/3171-1.png" alt=""></figure>
+                        <figure class="image"><img src="../images/resource/Waterun/Screw Fastening Robot/WT-4221-2Y Screw Fastening Robot (Magnetic Suction type).jpg" alt=""></figure>
                         <div class="overlay-box">
                             <div class="title-box">
-                                <h4><a href="product-detail-UTE-BTBConnector-PinHeaderConnector-5.html">3171-1</a></h4>
-                                <span>UTE</span>
+                                <h4><a href="product-detail-WATERUN-ScrewFasteningRobot-3.html">WT-4221-2Y Screw Fastening Robot (Magnetic Suction type)</a></h4>
+                                <span>WATERUN</span>
                             </div>
 
                             <div class="btn-box">
-                                <a href="product-detail-UTE-BTBConnector-PinHeaderConnector-5.html" class="theme-btn btn-style-seven">Read More <i class="fa fa-angle-double-right"></i></a>
+                                <a href="product-detail-WATERUN-ScrewFasteningRobot-3.html" class="theme-btn btn-style-seven">Read More <i class="fa fa-angle-double-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -369,15 +373,15 @@
 				<!-- Project Block -->
                 <div class="project-block-two">
                     <div class="image-box">
-                        <figure class="image"><img src="../images/resource/UTE/Board to Board Connector/Pin Header Connector/3175-1.png" alt=""></figure>
+                        <figure class="image"><img src="../images/resource/Waterun/Screw Fastening Robot/WT-4222-2Z Screw Fastening Robot （Drop Screw type).jpg" alt=""></figure>
                         <div class="overlay-box">
                             <div class="title-box">
-                                <h4><a href="product-detail-UTE-BTBConnector-PinHeaderConnector-6.html">3175-1</a></h4>
-                                <span>UTE</span>
+                                <h4><a href="product-detail-WATERUN-ScrewFasteningRobot-4.html">/WT-4222-2Z Screw Fastening Robot （Drop Screw type)</a></h4>
+                                <span>WATERUN</span>
                             </div>
 
                             <div class="btn-box">
-                                <a href="product-detail-UTE-BTBConnector-PinHeaderConnector-6.html" class="theme-btn btn-style-seven">Read More <i class="fa fa-angle-double-right"></i></a>
+                                <a href="product-detail-WATERUN-ScrewFasteningRobot-4.html" class="theme-btn btn-style-seven">Read More <i class="fa fa-angle-double-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -385,15 +389,15 @@
 				<!-- Project Block -->
                 <div class="project-block-two">
                     <div class="image-box">
-                        <figure class="image"><img src="../images/resource/UTE/Board to Board Connector/Pin Header Connector/3178-1.png" alt=""></figure>
+                        <figure class="image"><img src="../images/resource/Waterun/Screw Fastening Robot/WT-4223-2Y Screw Drop Type Screw Fastening Robot.jpg" alt=""></figure>
                         <div class="overlay-box">
                             <div class="title-box">
-                                <h4><a href="product-detail-UTE-BTBConnector-PinHeaderConnector-7.html">3178-1</a></h4>
-                                <span>UTE</span>
+                                <h4><a href="product-detail-WATERUN-ScrewFasteningRobot-5.html">WT-4223-2Y Screw Drop Type Screw Fastening Robot</a></h4>
+                                <span>WATERUN</span>
                             </div>
 
                             <div class="btn-box">
-                                <a href="product-detail-UTE-BTBConnector-PinHeaderConnector-7.html" class="theme-btn btn-style-seven">Read More <i class="fa fa-angle-double-right"></i></a>
+                                <a href="product-detail-WATERUN-ScrewFasteningRobot-5.html" class="theme-btn btn-style-seven">Read More <i class="fa fa-angle-double-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -401,15 +405,15 @@
 				<!-- Project Block -->
                 <div class="project-block-two">
                     <div class="image-box">
-                        <figure class="image"><img src="../images/resource/UTE/Board to Board Connector/Pin Header Connector/3179-1.png" alt=""></figure>
+                        <figure class="image"><img src="../images/resource/Waterun/Screw Fastening Robot/WT-4223-2Z Screw Drop Type Screw Fastening Robot.jpg" alt=""></figure>
                         <div class="overlay-box">
                             <div class="title-box">
-                                <h4><a href="product-detail-UTE-BTBConnector-PinHeaderConnector-8.html">3179-1</a></h4>
-                                <span>UTE</span>
+                                <h4><a href="product-detail-WATERUN-ScrewFasteningRobot-6.html">WT-4223-2Z Screw Drop Type Screw Fastening Robot</a></h4>
+                                <span>WATERUN</span>
                             </div>
 
                             <div class="btn-box">
-                                <a href="product-detail-UTE-BTBConnector-PinHeaderConnector-8.html" class="theme-btn btn-style-seven">Read More <i class="fa fa-angle-double-right"></i></a>
+                                <a href="product-detail-WATERUN-ScrewFasteningRobot-6.html" class="theme-btn btn-style-seven">Read More <i class="fa fa-angle-double-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -417,25 +421,119 @@
 				<!-- Project Block -->
                 <div class="project-block-two">
                     <div class="image-box">
-                        <figure class="image"><img src="../images/resource/UTE/Board to Board Connector/Pin Header Connector/3180-1.png" alt=""></figure>
+                        <figure class="image"><img src="../images/resource/Waterun/Screw Fastening Robot/WT-4245-1Z Magnetic Suction Type Screw Fastening Robot.jpg" alt=""></figure>
                         <div class="overlay-box">
                             <div class="title-box">
-                                <h4><a href="product-detail-UTE-BTBConnector-PinHeaderConnector-9.html">3180-1</a></h4>
-                                <span>UTE</span>
+                                <h4><a href="product-detail-WATERUN-ScrewFasteningRobot-7.html">WT-4245-1Z Magnetic Suction Type Screw Fastening Robot</a></h4>
+                                <span>WATERUN</span>
                             </div>
 
                             <div class="btn-box">
-                                <a href="product-detail-UTE-BTBConnector-PinHeaderConnector-9.html" class="theme-btn btn-style-seven">Read More <i class="fa fa-angle-double-right"></i></a>
+                                <a href="product-detail-WATERUN-ScrewFasteningRobot-7.html" class="theme-btn btn-style-seven">Read More <i class="fa fa-angle-double-right"></i></a>
                             </div>
                         </div>
                     </div>
                 </div>
+				<!-- Project Block -->
+                <div class="project-block-two">
+                    <div class="image-box">
+                        <figure class="image"><img src="../images/resource/Waterun/Screw Fastening Robot/WT-5023-2Z Back-to-back (Screw drop) Screw Fastening Robot.jpg" alt=""></figure>
+                        <div class="overlay-box">
+                            <div class="title-box">
+                                <h4><a href="product-detail-WATERUN-ScrewFasteningRobot-8.html">WT-5023-2Z Back-to-back (Screw drop)</a></h4>
+                                <span>WATERUN</span>
+                            </div>
 
-                
+                            <div class="btn-box">
+                                <a href="product-detail-WATERUN-ScrewFasteningRobot-8.html" class="theme-btn btn-style-seven">Read More <i class="fa fa-angle-double-right"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+				<!-- Project Block -->
+                <div class="project-block-two">
+                    <div class="image-box">
+                        <figure class="image"><img src="../images/resource/Waterun/Screw Fastening Robot/WT-7024-2Z Back-To-Back (VACCUM SUCTION) Screw Fastening Robot.jpg" alt=""></figure>
+                        <div class="overlay-box">
+                            <div class="title-box">
+                                <h4><a href="product-detail-WATERUN-ScrewFasteningRobot-9.html">WT-7024-2Z Back-To-Back (VACCUM SUCTION)</a></h4>
+                                <span>WATERUN</span>
+                            </div>
+
+                            <div class="btn-box">
+                                <a href="product-detail-WATERUN-ScrewFasteningRobot-9.html" class="theme-btn btn-style-seven">Read More <i class="fa fa-angle-double-right"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+				<!-- Project Block -->
+                <div class="project-block-two">
+                    <div class="image-box">
+                        <figure class="image"><img src="../images/resource/Waterun/Screw Fastening Robot/WT-7024-2Z Screw Fastening Robot (Magnetic Suction type).jpg" alt=""></figure>
+                        <div class="overlay-box">
+                            <div class="title-box">
+                                <h4><a href="product-detail-WATERUN-ScrewFasteningRobot-10.html">WT-7024-2Z Screw Fastening Robot (Magnetic Suction type)</a></h4>
+                                <span>WATERUN</span>
+                            </div>
+
+                            <div class="btn-box">
+                                <a href="product-detail-WATERUN-ScrewFasteningRobot-10.html" class="theme-btn btn-style-seven">Read More <i class="fa fa-angle-double-right"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+				<!-- Project Block -->
+                <div class="project-block-two">
+                    <div class="image-box">
+                        <figure class="image"><img src="../images/resource/Waterun/Screw Fastening Robot/WT-7026-2Y Screw Fastening Robot (Drop Screw type).jpg" alt=""></figure>
+                        <div class="overlay-box">
+                            <div class="title-box">
+                                <h4><a href="product-detail-WATERUN-ScrewFasteningRobot-11.html">WT-7026-2Y Screw Fastening Robot (Drop Screw type)</a></h4>
+                                <span>WATERUN</span>
+                            </div>
+
+                            <div class="btn-box">
+                                <a href="product-detail-WATERUN-ScrewFasteningRobot-11.html" class="theme-btn btn-style-seven">Read More <i class="fa fa-angle-double-right"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+				<!-- Project Block -->
+                <div class="project-block-two">
+                    <div class="image-box">
+                        <figure class="image"><img src="../images/resource/Waterun/Screw Fastening Robot/WT-7026-2Z With Mechanical Arm Pick-Up Screw Fastening Robot.jpg" alt=""></figure>
+                        <div class="overlay-box">
+                            <div class="title-box">
+                                <h4><a href="product-detail-WATERUN-ScrewFasteningRobot-12.html">WT-7026-2Z With Mechanical Arm Pick-Up</a></h4>
+                                <span>WATERUN</span>
+                            </div>
+
+                            <div class="btn-box">
+                                <a href="product-detail-WATERUN-ScrewFasteningRobot-12.html" class="theme-btn btn-style-seven">Read More <i class="fa fa-angle-double-right"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+				<!-- Project Block -->
+                <div class="project-block-two">
+                    <div class="image-box">
+                        <figure class="image"><img src="../images/resource/Waterun/Screw Fastening Robot/WT4223-2Y Screw Fastening Robot (Drop Screw type).jpg" alt=""></figure>
+                        <div class="overlay-box">
+                            <div class="title-box">
+                                <h4><a href="product-detail-WATERUN-ScrewFasteningRobot-2.html">WT4223-2Y Screw Fastening Robot (Drop Screw type)</a></h4>
+                                <span>WATERUN</span>
+                            </div>
+
+                            <div class="btn-box">
+                                <a href="product-detail-WATERUN-ScrewFasteningRobot-2.html" class="theme-btn btn-style-seven">Read More <i class="fa fa-angle-double-right"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
     </section>
     <!--End Related Projects -->
 
- <!--Clients Section-->
+<!--Clients Section-->
   <section class="clients-section">
     <div class="auto-container">
       <div class="sponsors-outer"> 
@@ -466,7 +564,7 @@
       </div>
     </div>
   </section>
-  <!--End Clients Section-->
+  <!--End Clients Section-->  
 
     <!--Main Footer-->
     <footer class="main-footer">
