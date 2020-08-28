@@ -7082,11 +7082,11 @@ img{
 	max-width: 100%;
 	width: auto;
 	height: auto;
-	filter: -webkit-grayscale(1);
+	/*filter: -webkit-grayscale(1);
 	filter: -moz-grayscale(1);
 	filter: -ms-grayscale(1);
 	filter: -o-grayscale(1);
-	filter: grayscale(1);
+	filter: grayscale(1);*/
 	-webkit-transition: all 300ms ease;
 	-moz-transition: all 300ms ease;
 	-ms-transition: all 300ms ease;
