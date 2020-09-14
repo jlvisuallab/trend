@@ -4795,7 +4795,8 @@ img{
 }
 
 .mixitup-gallery .filters{
- 	margin-bottom:60px;
+ 	margin-bottom:30px;
+	margin-top:10px;
  	text-align:center;
 }
 
@@ -4809,7 +4810,7 @@ img{
 	float: left;
 	font-size: 16px;
 	line-height: 24px;
-	color: #777777;
+	color: white;
 	font-weight: 500;
 	cursor: pointer;
  	text-transform: capitalize;
@@ -10582,4 +10583,18 @@ img{
 .logo img{
 	width:200px;
 	height:60px;
+}
+
+div.scrollmenu {
+  background-color:#00045C;
+  overflow: auto;
+  white-space: nowrap;
+}
+
+div.scrollmenu a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
 }
