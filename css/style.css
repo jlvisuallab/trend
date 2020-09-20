@@ -10586,14 +10586,14 @@ img{
 }
 
 div.scrollmenu {
-  background-color:#00045C;
+  background-color:#79D9FF;
   overflow: auto;
   white-space: nowrap;
 }
 
 div.scrollmenu a {
   display: inline-block;
-  color: white;
+  color: #00045C;
   text-align: center;
   padding: 14px;
   text-decoration: none;
